@@ -1,7 +1,7 @@
 Changelog
 =========
 
-0.0.1 (????-??-??)
+0.0.1 (2025-03-07)
 ------------------
 
 - initial release, code moved here from https://github.com/wairas/happy-tools
