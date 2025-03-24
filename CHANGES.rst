@@ -1,6 +1,12 @@
 Changelog
 =========
 
+0.0.2 (????-??-??)
+------------------
+
+- using underscores now instead of dashes in dependencies (`setup.py`)
+
+
 0.0.1 (2025-03-07)
 ------------------
 
